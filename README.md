@@ -1,3 +1,4 @@
+# I developed during in O'Pay&ECPay as a QAE.
 # 綠界 全方位(All In One)金流介接RoR 第一版
 ---
 
